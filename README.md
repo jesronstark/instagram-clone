@@ -1,4 +1,6 @@
-﻿# instagram-clone
+
+ 
+ # instagram-clone
 
 
 
@@ -376,6 +378,7 @@ Leaves creative room for your art: screenshots, emojis, roadmap flair.
 Encourages community participation, keeps tone conversational yet informative.
 
 Let me know if you want me to tailor any section—like replacing Node.js with Django, or adding Docker & CI/CD lines.
+
 
 
 
